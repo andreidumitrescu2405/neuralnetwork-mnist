@@ -6,3 +6,5 @@ This algorithm is used to recognize hand-written digits. Using the MNIST Data Se
 As activation functions for the layers, we are using ReLU (r(x)=max(0,x)) and LogSoftmax for the final layer of the neural network. 
 As loss function I used NLLLoss() function.
 As optimizer I used the Stochastic Gradient Descent. (SGD)
+
+In order to run the code be sure that you're having both the files in the same directory and just call the command "python main.py" inside the command line interpreter.
